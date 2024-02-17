@@ -20,7 +20,7 @@ function App() {
 
   // },[]);
 
-  // variation 3 -> whenever dependency changes
+  // variation 3 -> whenever dependency changes   
   useEffect(() =>{
 
     console.log("Change Observed");
